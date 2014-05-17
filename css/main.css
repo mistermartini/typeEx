@@ -97,6 +97,27 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    margin: 0 auto;
+    width: 70%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main {
+    background-color: #fff;
+
+}
+
+#main h2 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size: 5em;
+    line-height: .2;
+    color: #555;
+
+-letter-kern: -letter-pairs('Tr': -10px, 'it': -4px, '.j': -13px);
+}
+
 
 
 
