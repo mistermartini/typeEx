@@ -118,6 +118,19 @@ body {
 -letter-kern: -letter-pairs('Tr': -10px, 'it': -4px, '.j': -13px);
 }
 
+.swash {
+
+    fill: RoyalBlue;
+}
+
+.pictureFilter {
+
+}
+
+.swash:hover {
+  filter: url(#pictureFilter);
+}
+
 
 
 
